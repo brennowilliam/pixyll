@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Brenno Ferreira 
+email:       brennowilliam@gmail.com
+author:      Brenno Ferreira
+description: "My personal blog!"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://localhost:4000"
 
 # Google analytics
 google_analytics:
